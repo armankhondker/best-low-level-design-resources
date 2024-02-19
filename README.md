@@ -1,3 +1,3 @@
 # Best Low-Level Design Resources
 
-## Releasing Soon!
+## Releasing 3/1/24!
