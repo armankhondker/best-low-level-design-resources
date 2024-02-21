@@ -29,7 +29,7 @@ This repository contains the best free Low-Level System Design Interview resourc
 - [Design Hotel Management System](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/hotel-management-system.md)
 
 ### Hard
-- [Design a Movie ticket booking system](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)
+- [Design Movie ticket booking system](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)
 - [Design Chess](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/chess-game.md)
 
 Your open-source contributions are appreciated! 
