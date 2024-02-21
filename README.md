@@ -20,15 +20,15 @@
 ## Must-Do Interview Problems
 
 ### Easy
--[Design Parking Lot](https://leetcode.com/problems/design-tic-tac-toe/description/)
--[Design Car Rental System](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/car-rental-system.md)
+- [Design Parking Lot](https://leetcode.com/problems/design-tic-tac-toe/description/)
+- [Design Car Rental System](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/car-rental-system.md)
 
 ### Medium
--[Design Tic Tac Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)
--[Design Hotel Management System](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/hotel-management-system.md)
+- [Design Tic Tac Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)
+- [Design Hotel Management System](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/hotel-management-system.md)
 
 ### Hard
--[Design a Movie ticket booking system](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)
--[Design Chess](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/chess-game.md)
+- [Design a Movie ticket booking system](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)
+- [Design Chess](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/chess-game.md)
 
 Your open-source contributions are appreciated! 
