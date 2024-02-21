@@ -8,8 +8,8 @@
 - [KISS Princple](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=The%20KISS%20principle%20in%20design%20emphasizes%20simplicity%2C%20advising%20to%20avoid,but%20apply%20to%20different%20contexts.)
 
 ## Design Patterns 
-- []()
-- []()
+- [Design Patterns Overview](https://refactoring.guru/design-patterns)
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Books 
 - [Head First Design Patterns](https://github.com/ksatria/MK-Design-Pattern/blob/master/Ebook/Head%20First%20Design%20Patterns.pdf)
