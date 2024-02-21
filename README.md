@@ -1,4 +1,5 @@
 # Best Low-Level Design Resources
+This repository contains the best free Low-Level System Design Interview resources. 
 
 ## Low-Level Design Fundamentals
 - [OOP Principles](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
