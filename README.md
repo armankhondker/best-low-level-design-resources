@@ -1,7 +1,5 @@
 # Best Low-Level Design Resources
 
-## Full Release March 2024!
-
 ## Low-Level Design Fundamentals
 - [OOP Principles](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
 - [DRY Principle](https://github.com/ashishps1/awesome-low-level-design/blob/main/concepts/DRY.md) 
