@@ -2,9 +2,11 @@
 This repository contains the best free Low-Level System Design Interview resources. 
 
 ## Low-Level Design Fundamentals
-- [OOP Principles](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
+- [OOPS Basics](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
 - [DRY Principle](https://github.com/ashishps1/awesome-low-level-design/blob/main/concepts/DRY.md) 
 - [KISS Princple](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=The%20KISS%20principle%20in%20design%20emphasizes%20simplicity%2C%20advising%20to%20avoid,but%20apply%20to%20different%20contexts.)
+- [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
 
 ## Design Patterns 
 - [Design Patterns Overview](https://refactoring.guru/design-patterns)
